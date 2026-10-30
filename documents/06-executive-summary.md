@@ -52,10 +52,10 @@ Excessive access and poorly separated responsibilities can expose billing operat
 This is a fictional case study. No actual misuse was established, and no live systems or accounts were accessed or modified.
 
 ## Related Documents:
-- [01 — Billing Access Review: Scope](documents/01-billing-access-scope.md)
-- [02 — RBAC Role Design and Access Gap](documents/02-rbac-role-design-and-access-gap.md)
-- [03 — Access Risk and Segregation of Duties](documents/03-access-risk-and-segregation-of-duties.md)
-- [04 — User Access Findings and Risk Register](documents/04-user-access-findings-and-risk-register.md)
-- [05 — Remediation, Rollout and Controls](documents/05-remediation-rollout-and-controls.md)
+- [01 — Billing Access Review: Scope](01-billing-access-scope.md)
+- [02 — RBAC Role Design and Access Gap](02-rbac-role-design-and-access-gap.md)
+- [03 — Access Risk and Segregation of Duties](03-access-risk-and-segregation-of-duties.md)
+- [04 — User Access Findings and Risk Register](04-user-access-findings-and-risk-register.md)
+- [05 — Remediation, Rollout and Controls](05-remediation-rollout-and-controls.md)
 
 
